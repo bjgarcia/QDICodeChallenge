@@ -32,3 +32,6 @@
 *.app
 
 .vs/
+
+**/packages/*
+!**/packages/repositories.config
