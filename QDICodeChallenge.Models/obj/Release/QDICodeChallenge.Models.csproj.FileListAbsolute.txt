@@ -1,6 +1,5 @@
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Models\bin\Release\QDICodeChallenge.Models.dll
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Models\bin\Release\QDICodeChallenge.Models.pdb
-E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Models\obj\Release\QDICodeChallenge.Models.csprojResolveAssemblyReference.cache
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Models\obj\Release\QDICodeChallenge.Models.csproj.CoreCompileInputs.cache
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Models\obj\Release\QDICodeChallenge.Models.dll
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Models\obj\Release\QDICodeChallenge.Models.pdb
