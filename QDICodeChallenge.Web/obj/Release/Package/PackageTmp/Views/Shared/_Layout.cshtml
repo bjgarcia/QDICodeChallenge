@@ -12,6 +12,7 @@
 <body>
     <header>
         <div class="branding">
+            <a style="padding-right: 10px;" href="http://www.wjgarcia.com/">Return to wjgarcia.com</a>
             <strong>Contact Keeper Inc. Contacts Code Challenge</strong> 
         </div>
     </header>
@@ -19,11 +20,10 @@
         <div id="breadcrum">
             @Html.ActionLink("Return to Home", "Index", "Home")
         </div>
-
         @RenderBody()
     </article>
     <footer>
-        <small>&copy; @DateTime.Now.Year Contact Keeper Inc.</small>
+        <small>&copy; @DateTime.Now.Year William J. Garcia</small>
     </footer>
     @RenderSection("breakout", required: false)
     @Scripts.Render("~/bundles/site")

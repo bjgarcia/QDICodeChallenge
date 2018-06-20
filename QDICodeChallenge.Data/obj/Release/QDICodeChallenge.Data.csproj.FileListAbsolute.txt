@@ -14,7 +14,5 @@ E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Data\obj\Release\QDICodeChal
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Data\obj\Release\QDICodeChallenge.Data.DataContext_Migration.m1.resources
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Data\obj\Release\QDICodeChallenge.Data.DataContext_Migration.m2.resources
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Data\obj\Release\QDICodeChallenge.Data.csproj.GenerateResource.cache
-E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Data\obj\Release\QDICodeChallenge.Data.csproj.CoreCompileInputs.cache
-E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Data\obj\Release\QDICodeChallenge.Data.csproj.CopyComplete
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Data\obj\Release\QDICodeChallenge.Data.dll
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Data\obj\Release\QDICodeChallenge.Data.pdb

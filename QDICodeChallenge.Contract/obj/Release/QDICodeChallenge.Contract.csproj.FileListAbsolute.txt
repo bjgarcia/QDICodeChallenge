@@ -3,7 +3,5 @@ E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Contract\bin\Release\QDICode
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Contract\bin\Release\QDICodeChallenge.Models.dll
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Contract\bin\Release\QDICodeChallenge.Models.pdb
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Contract\obj\Release\QDICodeChallenge.Contract.csprojResolveAssemblyReference.cache
-E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Contract\obj\Release\QDICodeChallenge.Contract.csproj.CoreCompileInputs.cache
-E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Contract\obj\Release\QDICodeChallenge.Contract.csproj.CopyComplete
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Contract\obj\Release\QDICodeChallenge.Contract.dll
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Contract\obj\Release\QDICodeChallenge.Contract.pdb

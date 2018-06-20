@@ -48,7 +48,6 @@ E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Web\bin\System.Web.WebPages.
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Web\bin\WebGrease.dll
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Web\bin\QDICodeChallenge.Contract.pdb
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Web\bin\QDICodeChallenge.Data.pdb
-E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Web\bin\QDICodeChallenge.Data.dll.config
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Web\bin\QDICodeChallenge.Models.pdb
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Web\bin\EntityFramework.xml
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Web\bin\EntityFramework.SqlServer.xml
@@ -78,7 +77,5 @@ E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Web\bin\Microsoft.Owin.Secur
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Web\bin\Microsoft.Owin.Security.Twitter.xml
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Web\obj\Release\QDICodeChallenge.Web.csprojResolveAssemblyReference.cache
-E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Web\obj\Release\QDICodeChallenge.Web.csproj.CoreCompileInputs.cache
-E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Web\obj\Release\QDICodeChallenge.Web.csproj.CopyComplete
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Web\obj\Release\QDICodeChallenge.Web.dll
 E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Web\obj\Release\QDICodeChallenge.Web.pdb
