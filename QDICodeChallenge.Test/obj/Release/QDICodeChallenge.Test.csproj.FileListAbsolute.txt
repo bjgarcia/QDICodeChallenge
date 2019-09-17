@@ -1,7 +1,0 @@
-E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Test\bin\Release\QDICodeChallenge.Test.dll
-E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Test\bin\Release\QDICodeChallenge.Test.pdb
-E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Test\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Test\obj\Release\QDICodeChallenge.Test.csproj.CoreCompileInputs.cache
-E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Test\obj\Release\QDICodeChallenge.Test.csproj.CopyComplete
-E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Test\obj\Release\QDICodeChallenge.Test.dll
-E:\Sandbox\GitHub\QDICodeChallenge\QDICodeChallenge.Test\obj\Release\QDICodeChallenge.Test.pdb
